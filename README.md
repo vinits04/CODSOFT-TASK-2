@@ -1,2 +1,2 @@
-# CODSOFT-TASK-2-LANDING-PAGE-
-THIS IS THE REPOSITORY OF MY TASK-2 AS AN WEB DEVELOPER INTERN AT CODSOFT 
+# Education_Website_22-05-23
+Learn how to design a stunning and responsive education website landing page using HTML and CSS!
